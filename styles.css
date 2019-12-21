@@ -1,0 +1,46 @@
+body{
+    background-color: #225566;
+    text-align: center;
+  
+  }
+  main{
+    margin: 0 10%;
+    background-color: burlywood;
+    padding: 2% 5%;
+    border-radius: 5em;
+    border: 5px black double;
+  }
+  .code{
+    font-family: monospace;
+    background-color: coral;
+  }
+  h1{
+    color: Aqua;
+    text-decoration: underline;
+    text-transform: uppercase;
+  }
+  h2{
+    color: rgb(155,50,20);
+  }
+  table{
+    border: white 2px solid;
+    margin: 0 auto;
+    border-radius: 0.5em;
+  }
+  td {
+    border: white 1px solid;
+    border-collapse: separate;
+    padding: 5px 5px 5px 5px;
+  }
+  th{
+    border: white 1px solid;
+  }
+  .generales{
+    background-color: slateblue;
+  }
+  .atributos {
+    background-color: silver;
+  }
+  .Formularios{
+    background-color: sandybrown;
+  }
